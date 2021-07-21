@@ -7,3 +7,6 @@ Kêt quả sau khi thực hiện train model :
 
 ![image](https://user-images.githubusercontent.com/76995105/126550704-086a3fa2-d38c-44ea-88c2-38b0803f879a.png)
 
+Mô hình gồm hai phần là :
++ mạng sinh gồm các tầng tích chập chuyển vị 
++ mạng phân biệt là các tâng tích chập 
